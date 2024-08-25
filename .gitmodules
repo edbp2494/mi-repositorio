@@ -1,0 +1,3 @@
+[submodule "mi-repositorio"]
+	path = mi-repositorio
+	url = https://github.com/edbp2494/mi-repositorio.git
